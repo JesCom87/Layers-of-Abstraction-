@@ -51,7 +51,8 @@ Block       := "{" Stmt* "}"
 ## - Modus Operandi Equilibrium 
     Church
 Family=Conviction|Instructions=
-Heaven|Purgatory|Hell                     Maker=God|Devil=
+Heaven|Purgatory|Hell                     
+Maker=God|Devil=
 Christianity|Judaism|Islam
 
 Satisfy=Measure|Weight 
@@ -69,8 +70,8 @@ Function=Behavior|Change
 ## - Tailor Tomorrow Today 
     Business 
 Committee=Leadership|Mentorship=
-Chair|Officer|Chief
-Leader=Management|Administration=
+Chair|Head|Chief
+Pacer=Management|Administration=
 Accounting|Finance|Economics 
 
 Work=Matter|Energy=
