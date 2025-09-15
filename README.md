@@ -67,15 +67,15 @@ Work=Matter|Energy=Dimension|Motion|Exertion
 
 ## - Convergence 
     Hardware
-CentralBoard=MainStructure|PrimeCard|OperatingCore 
+CentralBoard|MainStructure|PrimeCard|OperatingCore 
 
-## - Flux
-    Experience 
-Hardware|Ableware=MachineOuterFace|SmallLowBack=Architecture|Engineering=Flux=Management|Administration=FrontHighBig|UserInterFace=Proware|Software
+## - Experience 
+    Midware 
+Ware|Late|Face|Scribe
 
 ## - Intelligence 
     Software 
-Money|Time=Growth=Agenda|Outfit|Business=Balance=Means|Ends
+Agenda|Outfit|Score|Business
 
 # =================
 
@@ -87,30 +87,32 @@ Money|Time=Growth=Agenda|Outfit|Business=Balance=Means|Ends
 Leakage|Injection=Import|Export=Taxation|Spending=Investments|Savings=Input|Output 
     
     Finance 
-Buy|Sell=Support|Resistant=Bullish|Bearish 
+Buy|Sell=Support|Resist=Bullish|Bearish 
     
     Accounting 
 Increase|Decrease=Revenue|Expense=Debit|Credit 
+
+## - Score
     
     Marketing 
-Research|Positioning=Auditing|Scanning=Branding|Advertising 
+Researching|Positioning=Auditing|Scanning=Promoting|Advertising 
     
     Supply Chain 
 Vending|Listing=Logisting|Provisioning=Bearing|Sourcing 
     
     Human Resources 
-Vacationing|Scheduling=Educating|Training=Onboarding|Recruitming
+Vacationing|Registering=Educating|Training=Onboarding|Recruiting 
 
 ## - Outfit
     
     Revolutionary 
-Robotics|Defense|Aerospace|Energy
+Integrating|Automating
     
     Infrastructure 
-Air|Water|Land
+Tethering|Routering 
     
-    Industry
-Accommodation|Education|Information|Transportation|Construction 
+    Industry 
+Manufacturing|Prospecting  
 
 ## - Agenda 
     
