@@ -51,7 +51,7 @@ Block       := "{" Stmt* "}"
 ## - Modus Operandi Equilibrium 
     Church
 Family=Conviction|Instructions=
-Heaven|Purgatory|Hell
+Heaven|Purgatory|Hell 
 Maker=God|Devil=
 Christianity|Judaism|Islam
 
