@@ -44,6 +44,8 @@ Block       := "{" Stmt* "}"
 ### ∆∆      Duality 
 ### ∆∆∆     Trinity 
 
+===================================================
+
 # • Eminence 
 
 ## - Modus Operandi Equilibrium 
