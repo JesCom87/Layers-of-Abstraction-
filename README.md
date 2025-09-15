@@ -50,10 +50,10 @@ Block       := "{" Stmt* "}"
 
 ## - Modus Operandi Equilibrium 
     Church
-Family=Conviction|Instruction=
-Heaven|Purgatory|Hell                     
-Maker=God|Devil=
-Christianity|Judaism|Islam
+Family=God|Devil=
+Christianity|Judaism|Islam                     
+Maker=Virtue|Sin=
+Heaven|Purgatory|Hell
 
 Satisfy=Measure|Weight 
 
